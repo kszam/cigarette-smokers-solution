@@ -4,14 +4,14 @@
 #include <vector>
 #include <string>
 
-/***********************************************************************************************
- *	Solution to the impossible version of the cigarette smokers problem (without conditional   *
- *  statements or arrays of semaphores as stated in "The Little Book Of Semaphores (2nd Ed.)". *
- *  Well, actually this solution doesn't use much of anything, not even arithmetic.            *
- *	If you think "while()" violates the rules replace them with gotos.												 *
- *  Environment: Visual Studio Community 2015																									 *
- *  Copyright 2015 Karl Szameitat																															 *
- ***********************************************************************************************/
+/*************************************************************************************************
+ *  Solution to the impossible version of the cigarette smokers problem (without conditional     *
+ *  statements or arrays of semaphores as stated in "The Little Book Of Semaphores (2nd Ed.)".   *
+ *  Well, actually this solution doesn't use much of anything, not even arithmetic.              *
+ *  If you think "while()" violates the rules replace them with gotos.			         *									 *
+ *  Environment: Visual Studio Community 2015							 *																		 *
+ *  Copyright 2015 Karl Szameitat								 *																							 *
+ *************************************************************************************************/
 
 using namespace std;
 
